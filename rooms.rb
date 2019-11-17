@@ -52,6 +52,5 @@ class Room
     if song_array.include?(guest.favourite_song)
       return "Yeaaah!"
     end
-   end
-
- end
+  end
+end
